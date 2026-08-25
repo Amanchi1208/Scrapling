@@ -191,16 +191,6 @@ MySpider().start()
   </tr>
   <tr>
     <td width="200">
-      <a href="https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=scraping&utm_term=&utm_id=scraping" target="_blank" title="Real-Time Public Data, Ready to Use">
-        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/CoreClaw.jpg">
-      </a>
-    </td>
-    <td>
-    <a href="https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=scraping&utm_term=&utm_id=scraping" target="_blank">CoreClaw</a> 为 AI 智能体提供网络数据 API。获取来自 Google 地图、LinkedIn、Instagram、YouTube、Amazon 等平台的结构化数据。
-    </td>
-  </tr>
-  <tr>
-    <td width="200">
       <a href="https://niuproxy.com/?utm_source=scrapling&utm_medium=scrapling&ref=scrapling" target="_blank" title="Affordable Residential in 190+ Countries">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/niuproxy.png">
       </a>

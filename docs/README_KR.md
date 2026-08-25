@@ -191,16 +191,6 @@ MySpider().start()
   </tr>
   <tr>
     <td width="200">
-      <a href="https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=scraping&utm_term=&utm_id=scraping" target="_blank" title="Real-Time Public Data, Ready to Use">
-        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/CoreClaw.jpg">
-      </a>
-    </td>
-    <td>
-    <a href="https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=scraping&utm_term=&utm_id=scraping" target="_blank">CoreClaw</a>는 AI 에이전트를 위한 웹 데이터 API를 제공합니다. Google 지도, LinkedIn, Instagram, YouTube, Amazon 등의 구조화된 데이터에 액세스하세요.
-    </td>
-  </tr>
-  <tr>
-    <td width="200">
       <a href="https://niuproxy.com/?utm_source=scrapling&utm_medium=scrapling&ref=scrapling" target="_blank" title="Affordable Residential in 190+ Countries">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/niuproxy.png">
       </a>
