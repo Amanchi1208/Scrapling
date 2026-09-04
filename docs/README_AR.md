@@ -199,6 +199,16 @@ MySpider().start()
     يوفر <a href="https://niuproxy.com/?utm_source=scrapling&utm_medium=scrapling&ref=scrapling" target="_blank">NiuProxy</a> بروكسيات سكنية دوّارة ابتداءً من $0.35 لكل جيجابايت. استخدم كود Scrapling الحصري PAY2 واحصل على خصم 10% عند شحن رصيدك.
     </td>
   </tr>
+  <tr>
+    <td width="200">
+      <a href="https://voidmob.com/proxies?utm_source=scrapling" target="_blank" title="Premium Mobile Proxies from Real Carrier Networks">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/voidmob.png">
+      </a>
+    </td>
+    <td>
+    <a href="https://voidmob.com/proxies?utm_source=scrapling" target="_blank">VoidMob</a>: بروكسيات موبايل 4G/5G على شرائح SIM وأجهزة حقيقية. مخصصة أو مشتركة، ثابتة، دوّارة، إعدادات مسبقة لبصمة p0f، دعم API/MCP وجميع البروتوكولات. استخدم كود SCRAPLING20 للحصول على خصم 20%.
+    </td>
+  </tr>
 </table>
 
 <i><sub>هل تريد عرض إعلانك هنا؟ انقر [هنا](https://github.com/sponsors/D4Vinci/sponsorships?tier_id=586646)</sub></i>

@@ -199,6 +199,16 @@ MySpider().start()
     <a href="https://niuproxy.com/?utm_source=scrapling&utm_medium=scrapling&ref=scrapling" target="_blank">NiuProxy</a> propose des proxys résidentiels rotatifs à partir de $0.35/GB. Utilisez le code exclusif Scrapling PAY2 pour obtenir 10 % de réduction sur votre recharge.
     </td>
   </tr>
+  <tr>
+    <td width="200">
+      <a href="https://voidmob.com/proxies?utm_source=scrapling" target="_blank" title="Premium Mobile Proxies from Real Carrier Networks">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/voidmob.png">
+      </a>
+    </td>
+    <td>
+    <a href="https://voidmob.com/proxies?utm_source=scrapling" target="_blank">VoidMob</a> : proxys mobiles 4G/5G sur de vraies cartes SIM et de vrais appareils. Dédiés ou partagés, sticky, rotatifs, préréglages d'empreinte p0f, API/MCP et prise en charge complète des protocoles. Utilisez le code SCRAPLING20 pour obtenir 20 % de réduction.
+    </td>
+  </tr>
 </table>
 
 <i><sub>Vous souhaitez afficher votre publicité ici ? Cliquez [ici](https://github.com/sponsors/D4Vinci/sponsorships?tier_id=586646)</sub></i>

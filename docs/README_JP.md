@@ -199,6 +199,16 @@ MySpider().start()
     <a href="https://niuproxy.com/?utm_source=scrapling&utm_medium=scrapling&ref=scrapling" target="_blank">NiuProxy</a> は$0.35/GBから利用できるローテーション型住宅用プロキシを提供します。Scrapling限定コードPAY2を使うと、チャージが10%オフになります。
     </td>
   </tr>
+  <tr>
+    <td width="200">
+      <a href="https://voidmob.com/proxies?utm_source=scrapling" target="_blank" title="Premium Mobile Proxies from Real Carrier Networks">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/voidmob.png">
+      </a>
+    </td>
+    <td>
+    <a href="https://voidmob.com/proxies?utm_source=scrapling" target="_blank">VoidMob</a>: 実際のSIMとデバイスを使った4G/5Gモバイルプロキシ。専用または共有、スティッキー、ローテーション、p0fフィンガープリントプリセット、API/MCPおよび全プロトコル対応。コードSCRAPLING20で20%オフ。
+    </td>
+  </tr>
 </table>
 
 <i><sub>ここに広告を表示したいですか？[こちら](https://github.com/sponsors/D4Vinci/sponsorships?tier_id=586646)をクリック</sub></i>

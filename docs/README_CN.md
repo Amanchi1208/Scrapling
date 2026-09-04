@@ -199,6 +199,16 @@ MySpider().start()
     <a href="https://niuproxy.com/?utm_source=scrapling&utm_medium=scrapling&ref=scrapling" target="_blank">NiuProxy</a> 提供每 GB 低至 $0.35 的动态住宅代理。使用 Scrapling 专属优惠码 PAY2,充值立减 10%。
     </td>
   </tr>
+  <tr>
+    <td width="200">
+      <a href="https://voidmob.com/proxies?utm_source=scrapling" target="_blank" title="Premium Mobile Proxies from Real Carrier Networks">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/voidmob.png">
+      </a>
+    </td>
+    <td>
+    <a href="https://voidmob.com/proxies?utm_source=scrapling" target="_blank">VoidMob</a>: 基于真实 SIM 卡和设备的 4G/5G 移动代理。独享或共享、粘性、轮换、p0f 指纹预设、API/MCP 及全协议支持。使用优惠码 SCRAPLING20 可享 20% 折扣。
+    </td>
+  </tr>
 </table>
 
 <i><sub>想在这里展示您的广告吗？点击 [这里](https://github.com/sponsors/D4Vinci/sponsorships?tier_id=586646)</sub></i>
